@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ITVDN-SHOP",
+            "database": "${workspaceFolder:ITVDN-SHOP}/database/database.sqlite"
+        }
+    ]
+}
